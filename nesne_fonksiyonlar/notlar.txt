@@ -1,0 +1,23 @@
+Javascript'de primitive tipler (numbers, strings, boolean vs) haricindeki her þeye obje diyebiliriz.
+Arrays, functions, objects, dates, string number object..
+primitive tipler, sadece deðer tutmaktadýrlar.
+Objeler sadece deðer tutmaz, içerisinde iþ yapan hazýr fonksiyonlarý (proto) da barýndýran yapýlardýr.
+Intance'nin üretildiði yapý constructor'dýr.
+
+This anahtar sözcüðü o anda üretilen kopyanýn kendisini temsil eder.
+
+JavaScript'de ES5'de class tanýmlanmasý yapýlamaz, fakat ES6'da tanýmlanabilir.
+
+DERS 3; ProtoTypes
+Kalýtým / Inheritance nedir ? (JavaScript'de özelliklerin objeler arasýnda paylaþtýrýlmasý.)
+Bir sýnýfýn (Java, C# vs) kendisiyle ortak özellikleri olan baþka bir sýnýftan o özellikleri miras almasýna denir. 
+JavaScript'de bu kavram ProtoType ile alýnýr. ProtoType ile özellikler objelerden objelere aktarýlabilir.
+Object'den üretilen objeye prototype ile özellikler aktarýlýr.
+
+Her üretilen nesnede örnek metod bulunmaz, 
+fakat protoType sayesinde istediðimizde bu metoda ulaþabiliriz.
+
+Üretilen örneklerden ana Object içerisindeki metodlara da ulaþabiliriz.
+
+
+
