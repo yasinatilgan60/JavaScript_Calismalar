@@ -1,4 +1,4 @@
 module.exports = [
-    {name: 'Arda'},
+    {name: 'Arda Atılgan'},
     {name: 'Atakan'}
 ]

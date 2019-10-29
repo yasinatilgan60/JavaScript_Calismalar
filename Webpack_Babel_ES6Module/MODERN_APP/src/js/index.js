@@ -49,7 +49,7 @@ console.log(lib.multiply(5,2,10));
 import myLib from './lib';
 const lib = new myLib();
 
-console.log(lib.sum(1,5,6)); // 12
+console.log(lib.sum(1,5,6,8)); // 12
 console.log(lib.multiply(1,2,3,4,5,6)); // 720
 console.log(lib.PI); // 3.146
 

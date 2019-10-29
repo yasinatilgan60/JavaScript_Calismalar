@@ -104,7 +104,7 @@ eval("// Çıkan yeni özellikler bazı araçlarla kullanılmaktadır.\r\n// Web
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = [\r\n    {name: 'Arda'},\r\n    {name: 'Atakan'}\r\n]\n\n//# sourceURL=webpack:///./people.js?");
+eval("module.exports = [\r\n    {name: 'Arda Atılgan'},\r\n    {name: 'Atakan'}\r\n]\n\n//# sourceURL=webpack:///./people.js?");
 
 /***/ })
 
